@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 cd ... # enter the current directory
-df = pd.read_csv("raman_5.csv", index_col=None)
+df = pd.read_csv("...", index_col=None) # enter the name of the .csv file
 #df
 
 # Write code to converting the values to actual ones. Comment this step if the data need not be modified.
